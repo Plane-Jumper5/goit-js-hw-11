@@ -1,4 +1,4 @@
-import { errorMessage, successMessage } from './js/common.js';
+import { errorMessage, successMessage } from './js/iziestyles.js';
 import { fetchImages } from './js/pixabay-api.js';
 import { renderGallery } from './js/render-functions.js';
 
